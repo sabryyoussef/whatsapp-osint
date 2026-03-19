@@ -266,6 +266,12 @@ Original concept developed in 2019. Revamped in 2025 for better performance and 
 
 ---
 
+## 🌐 Documentation in other languages
+
+- [العربية — Arabic README](README_AR.md)
+
+---
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-jasperan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jasperan)&nbsp;
